@@ -1,2 +1,2 @@
 # gpt_ms1
-gpt trained on publicly available text 
+gpt trained on publicly available text and?
